@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the eadv.dk blog
 
-I'm glad you are here. I plan to talk about ...
+Here we will do writeups of things relevant to us as we develop, implement and teach AP degree IT courses.
